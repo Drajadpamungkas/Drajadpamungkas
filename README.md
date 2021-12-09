@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drajadpamungkas" alt="drajadpamungkas" /></a> </p>
 
-- 🔭 I’m currently working on [Arduino and Artificial Intelligence](https://github.com/Drajadpamungkas/arduino-project)
+- 🔭 I’m currently working on [Arduino and Internet of Things](https://github.com/Drajadpamungkas/arduino-project)
 
 - 🌱 I’m currently learning **programming language,**
 
